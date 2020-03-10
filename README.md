@@ -1,2 +1,2 @@
 # Abstract-Subroutine
-Electronic diary for students, parents, and professors. Built with Angular and Spring Boot.
+Backend for the electronic diary project used by students, parents, and professors. Built with Angular and Spring Boot.
