@@ -1,0 +1,10 @@
+('42', 'Marko', 'Čupić', 'CLASS_TEACHER', '424-494', '1'),
+('43', 'Denis', 'Detoffi', 'CLASS_TEACHER', '992-214', '1'),
+('44', 'Franko', 'Frajković', 'CLASS_TEACHER', '484-441', '1'),
+('45', 'Marica', 'Horvat', 'CLASS_TEACHER', '491-581', '1'),
+('46', 'Ivan', 'Blažetić', 'CLASS_TEACHER', '428-696', '1'),
+('47', 'Ilko', 'Brnetić', 'CLASS_TEACHER', '231-593', '1'),
+('48', 'Maja', 'Kukalo', 'CLASS_TEACHER', '564-345', '1'),
+('49', 'Oleg', 'Petrović', 'CLASS_TEACHER', '236-764', '1'),
+('50', 'Šime', 'Kovačević', 'PROFESSOR', '764-541', '1'),
+('51', 'Trešnja', 'Knežević-Crputić', 'PROFESSOR', '123-646', '1');

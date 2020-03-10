@@ -1,0 +1,6 @@
+package hr.fer.opp.project.models.enums;
+
+public enum GradeType {
+	// USMENO, PISMENO, ZALAGANJE, ZADACNICA, KNJIZEVNOST, GRAMATIKA
+	ORAL_EXAM, WRITING_EXAM, DEVOTION, JOINT, LITERATURE, GRAMMAR
+}
